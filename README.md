@@ -34,15 +34,6 @@ It features AI-based chatbot support for customers and allows manufacturers to s
 - **Admin Module** – Manage product records
 - **3D Product Viewer** – View rotating models of authentic products
 
----
-
-## 🧊 3D Product Models
-
-Due to size limits, 3D models are hosted externally.  
-🔗 [Download 3D Models](https://drive.google.com)
-
----
-
 ## 🎓 Academic Note
 
 🏆 This project was developed as part of the final year engineering curriculum at **Sapthagiri College of Engineering**,
